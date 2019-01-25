@@ -17,16 +17,18 @@ Exercise 1 will test your understanding of the basics of Git Version Control and
 . Using your computer's terminal, navigate your computer's filesystem and clone this repository (repo) somewhere accessible on your computer
  
  .. Hints: 
- ... The "cd" command will allow you to change directories on most OSes, 
- ... Use Google to find the appropriate commands for your OS
+ ... The "cd" command will allow you to change directories on most OSes; 
+ ... If needed, use Google to find the appropriate commands for your OS
  
  
-. Through the terminal, navigate to the cloned repo. Through the terminal or GitHub website, make a branch of this repo with the following naming scheme: "Ex1_FIRSTNAME_LASTNAME"
+. Through the terminal, navigate to the cloned repo
 
-. Through the terminal, switch branches from "Master" to your own branch
+. Through the terminal or GitHub website, make a branch of this repo with the following naming scheme: "Ex1_FIRSTNAME_LASTNAME"
+
+. Through the terminal, switch branches from "master" to your own branch
 
 . Using a text editor, edit the file "Ex1.c" and fill in the missing code
 
 . Save the file and using the terminal, push the code to your branch with an appropriate commit comment
 
-. Finally, make a "New Pull Request"
+. Finally, make a "Pull Request" to merge your branch with "master"
