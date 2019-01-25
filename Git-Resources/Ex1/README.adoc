@@ -21,7 +21,7 @@ Exercise 1 will test your understanding of the basics of Git Version Control and
  ... Use Google to find the appropriate commands for your OS
  
  
-. Through the terminal or through GitHub, make a branch of this repository with the naming scheme: "Ex1_FIRSTNAME_LASTNAME"
+. Through the terminal, navigate to the cloned repo. Through the terminal or GitHub website, make a branch of this repo with the following naming scheme: "Ex1_FIRSTNAME_LASTNAME"
 
 . Through the terminal, switch branches from "Master" to your own branch
 
