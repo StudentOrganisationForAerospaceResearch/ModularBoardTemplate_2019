@@ -1,1 +1,32 @@
-Ex1 - INSTRUCTIONS
+= Exercise 1:
+
+Exercise 1 will test your understanding of the basics of Git Version Control and will take approximately:
+
+
+  * For Beginners (including installation): 30-40 minutes
+  * For Experienced Users: 4 - 10 minutes
+  
+
+== Exercise 1 Instructions
+
+. Install the command line/terminal version (not the GUI version) of Git on your Computer by following the instructions on the website below:
+
+
+  .. https://git-scm.com/downloads
+  
+. Using your computer's terminal, navigate your computer's filesystem and clone this repository (repo) somewhere accessible on your computer
+ 
+ .. Hints: 
+ ... The "cd" command will allow you to change directories on most OSes, 
+ ... Use Google to find the appropriate commands for your OS
+ 
+ 
+. Through the terminal or through GitHub, make a branch of this repository with the naming scheme: "Ex1_FIRSTNAME_LASTNAME"
+
+. Through the terminal, switch branches from "Master" to your own branch
+
+. Using a text editor, edit the file "Ex1.c" and fill in the missing code
+
+. Save the file and using the terminal, push the code to your branch with an appropriate commit comment
+
+. Finally, make a "New Pull Request"
