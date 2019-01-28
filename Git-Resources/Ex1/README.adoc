@@ -14,6 +14,10 @@ Exercise 1 will test your understanding of the basics of Git Version Control and
 
   .. https://git-scm.com/downloads
   
+. Upon installing the command line/terminal version, test if Git is configured properly by entering "git" into the commandline and seeing if you receive a message
+
+. In order to complete this exercise, you must set your username in Git
+  
 . Using your computer's terminal, navigate your computer's filesystem and clone this repository (repo) somewhere accessible on your computer
  
  .. Hints: 
